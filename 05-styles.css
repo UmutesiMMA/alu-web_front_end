@@ -500,11 +500,11 @@ header .menu-icon {
   transition: all .2s ease-out;
 }
 
-.navicon:before{
-  top:.7rem;
+.navicon::before{
+  top:0.7rem;
 }
-.navicon:after{
-  top: -.7rem;
+.navicon::after{
+  top: -0.7rem;
 }
 /* Header
 
