@@ -651,6 +651,7 @@ header .menu-btn {
 .section-hero {
   position: relative;
   margin-top: -8.5rem;
+  padding-top: 5rem;
 }
 
 .hero-homepage {
